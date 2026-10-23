@@ -2,8 +2,8 @@
   "aws_access_key_id":"*****",
   "aws_secret_access_key": "******",
 
-  "aws_endpoint": "https://omni-mnt.tos-s3-cn-beijing.ivolces.com",
-  "aws_region":"cn-beijing",
+  "aws_endpoint": "*****",
+  "aws_region":"*****",
   "aws_allow_http":"false",
 
   "aws_virtual_hosted_style_request":"true"
