@@ -1,6 +1,6 @@
 {
-  "aws_access_key_id":"AKLTZTZkMTc3ZTA1OTQ1NDYwMjg5MDI0MmE5YmQ5Nzk3YTQ",
-  "aws_secret_access_key": "WkRWbU56Y3dOMkl5TXpObE5EWTFaVGd5Tm1ZeU5HSTROalF6TlRnME5XUQ==",
+  "aws_access_key_id":"*****",
+  "aws_secret_access_key": "******",
 
   "aws_endpoint": "https://omni-mnt.tos-s3-cn-beijing.ivolces.com",
   "aws_region":"cn-beijing",
